@@ -61,7 +61,8 @@ The [**Open Targets Platform**](https://platform.opentargets.org) is a free reso
 **AI and agents**
 
 - [`platform-mcp`](https://github.com/opentargets/platform-mcp): official Model Context Protocol server for the Platform
-<sub>Our stack: Python · PySpark · Scala · TypeScript · Rust · Nextflow · Google Cloud · Kubernetes</sub>
+
+**Our stack:** Python · PySpark · Scala · TypeScript · Rust · Nextflow · Google Cloud · Kubernetes
 
 ## 🤝 Get involved
 
